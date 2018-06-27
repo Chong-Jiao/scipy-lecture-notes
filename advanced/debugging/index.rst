@@ -8,6 +8,7 @@ Debugging code
 
 This section explores tools to understand better your code base:
 debugging, to find and fix bugs.
+本章探索了如何更好的如果通过调试，发现和修改bug来更好地理解你的代码库。
 
 It is not specific to the scientific Python community, but the strategies
 that we will employ are tailored to its needs.
