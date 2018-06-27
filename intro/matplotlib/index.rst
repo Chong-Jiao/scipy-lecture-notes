@@ -12,7 +12,7 @@ Matplotlib: plotting
 
 **Authors**: *Nicolas Rougier, Mike Müller, Gaël Varoquaux*
 
-.. contents:: Chapter contents
+.. contents:: 目录
    :local:
    :depth: 1
 
@@ -21,11 +21,7 @@ Introduction
 
 .. tip::
 
-    `Matplotlib <http://matplotlib.org/>`__ is probably the most
-    used Python package for 2D-graphics. It provides both a quick
-    way to visualize data from Python and publication-quality figures in
-    many formats.  We are going to explore matplotlib in interactive mode
-    covering most common cases.
+    `Matplotlib <http://matplotlib.org/>`__ 是2D绘图中最常使用的Python包。它既能利用Python进行数据可视化，又提供了支持多种格式的，具有出版物水平的高质量图像。我们将会以一种交互的方式探索 matplotlib，本节内容涵盖了大部分常规的使用。
 
 IPython, Jupyter, and matplotlib modes
 ---------------------------------------
